@@ -1,0 +1,25 @@
+{
+  "name": "cronolog",
+  "version": "1.0.0",
+  "description": "CRONOLOG version 1.6.1",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verybestjp/cronolog.git"
+  },
+  "author": "",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/verybestjp/cronolog/issues"
+  },
+  "bin": {
+    "cronolog": "./bin/cronolog"
+  },
+  "homepage": "https://github.com/verybestjp/cronolog#readme"
+}
